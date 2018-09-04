@@ -1,0 +1,6 @@
+col,type
+name,StringType
+age,IntegerType
+Date,DateType
+Address,StringType
+Address2,StringType
